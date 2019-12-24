@@ -1,0 +1,8 @@
+COM S 352
+Project 2: Concurrent Red-Black Trees
+LORENZO ZENITSKY
+
+README:
+
+To compile my shell program, all you have to type in to the command line is "make", provided that it's in the same folder as the rest of my source files.
+Any unwanted generated files may be removed through the make clean && make clobber commands.
